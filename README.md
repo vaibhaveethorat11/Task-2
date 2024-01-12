@@ -10,6 +10,12 @@ npm run dev
 yarn dev
 ```
 
+**TASK2 FEATURES UPDATE**
+**1.Values in the draft card are updated in real-time based on user input in forms.
+2.User is not abled to go to next tab/step unless he fills the current step form without any errors.
+**
+Changes are made in HomeLayout.tsx, RequistionDetailsForm.tsx,etc
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
